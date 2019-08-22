@@ -6,6 +6,7 @@ public class MyClass {
 		
 		System.out.println("Hell world");
 		System.out.println("Myfirst programe");
+		System.out.println("MySecond programe");
 
 	}
 
